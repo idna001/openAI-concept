@@ -1,0 +1,29 @@
+{
+  "name": "openai-concept",
+  "version": "1.0.0",
+  "description": "Short concept use of OpenAI API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idna001/openAI-concept.git"
+  },
+  "keywords": [
+    "openAI",
+    "API",
+    "AI",
+    "pictures"
+  ],
+  "author": "Andreas Voelker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idna001/openAI-concept/issues"
+  },
+  "homepage": "https://github.com/idna001/openAI-concept#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.11.0"
+  }
+}
